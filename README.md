@@ -91,10 +91,4 @@ Xavfsiz va chiroyli dizayndagi login oynasi. Administrator va mijozlar uchun mos
 
 ---
 
-## 🔑 Tizimga Kirish Ma'lumotlari (Default Admin Credentials)
-
-Tizim birinchi marta ishga tushganda avtomatik ravishda boshqaruvchi (admin) akkauntini yaratadi:
-*   **Email:** `admin@restaran.com`
-*   **Parol:** `admin123`
-
-Ushbu akkaunt yordamida **`/admin`** boshqaruv paneliga kirib, menyular, toifalar, slaydlar va yangiliklarni tahrirlashingiz mumkin.
+        
